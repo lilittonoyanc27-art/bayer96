@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Lesson-Game for Gor and Gayane",
+  "description": "Ինտերակտիվ իսպաներենի դաս-խաղ A1 մակարդակի համար Գոռի և Գայանեի համար՝ հայերեն թարգմանությամբ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
